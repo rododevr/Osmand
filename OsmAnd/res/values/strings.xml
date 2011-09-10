@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <resources>
+	<string name="default_buttons_support">Support</string>
+	<string name="support_new_features">Support new features</string>
+
     <string name="poi_context_menu_showdescription">Show description</string>
     <string name="amenity_type_wikiosm">Wikipedia</string>
 	<string name="amenity_type_user_defined">User defined</string>
@@ -144,6 +147,7 @@
 	
 	<string name="select_search_position">Search near :</string>
 	<string name="context_menu_item_search">Search near here</string>
+
 	<string name="tip_recent_changes_0_6_7_t">Recent changes for 0.6.7 :
 \n\t- Offline data manager (download, delete, activate / deactivate offline data directly in Osmand)
 \n\t- Favorite points and groups (categorize, delete, manage favorites)
