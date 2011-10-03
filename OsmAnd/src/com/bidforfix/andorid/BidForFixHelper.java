@@ -105,9 +105,7 @@ public class BidForFixHelper {
 	private void loadList() {
 		if (initialized == null || initialized.before(new Date(System.currentTimeMillis()-DAY))) {
 			BufferedReader in = null;
-			String project = "demo.bidforfix.com"; // TODO for testing...
-			String url = "http://bidforfix-test.appspot.com/p/"
-					+ project + "/issues/";
+			String url = "http://www.bidforfix.com/p/" + project + "/issues/";
 			try {
 				URL twitter = new URL(url);
 				URLConnection tc = twitter.openConnection();
