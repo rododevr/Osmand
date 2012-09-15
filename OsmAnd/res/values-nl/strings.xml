@@ -6,9 +6,9 @@
   <string name="avoid_unpaved">Vermijd onverharde wegen</string>
   <string name="avoid_ferries">Vermijd veerboten</string>
   <string name="avoid_in_routing_title">Vermijd…</string>
-  <string name="avoid_in_routing_descr">Vermijd tolwegen, onverharde wegen, veerboten</string>
-  <string name="show_warnings_title">Toon alarm…</string>
-  <string name="show_warnings_descr">Toon snelheidslimieten, snelheidscamera\'s en verkeersdrempels</string>
+  <string name="avoid_in_routing_descr">Vermijd tolwegen, onverharde wegen, veerboten en snelwegen</string>
+  <string name="show_warnings_title">Toon …</string>
+  <string name="show_warnings_descr">Toon snelheidslimieten, snelheidscamera\'s, verkeersdrempels en rijstroken</string>
   <string name="map_widget_fluorescent">Fluorescerende routes</string>
   <string name="map_widget_show_ruler">Lineaal</string>
   <string name="map_widget_appearance">Overige:</string>
@@ -953,8 +953,8 @@
 <string name="day_night_info_description">Zonsopgang : %1$s \nZonsondergang : %2$s</string>
 <string name="day_night_info">Dag/nacht info</string>
 <string name="map_widget_day_night">Dag/nacht kaart</string>
-<string name="map_widget_vector_attributes">Kaartoplevering attributen:</string>
-<string name="map_widget_renderer">Kaartoplevering stijl</string>
+<string name="map_widget_vector_attributes">Kaartgeneratie attributen:</string>
+<string name="map_widget_renderer">Kaartgeneratie stijl</string>
 <string name="tip_rotation_switching_t_v2">\tJe kan kiezen hoe de kaartweergave geroteerd wordt door herhaaldelijk te klikken op het kompas-icoon.↵
 \n\tDe keuzen zijn:↵
 \n\t\'Niet roteren (het noorden is boven)\' - De kaart wordt niet geroteerd. Het noorden is altijd boven↵
@@ -1019,6 +1019,6 @@ Belangrijke eigenschappen:
 		\n\t* Verbeterde interface (iconen)
 		\n\t* Enige bugs opgelost
 	</string>
-<string name="snap_to_road_descr">Houd positie op de weg tijdens navigatie</string>
-<string name="snap_to_road">Houd op weg</string>
+<string name="snap_to_road_descr">Houd mijn positie op de weg tijdens navigatie</string>
+<string name="snap_to_road">Houd me op de weg</string>
 </resources>
