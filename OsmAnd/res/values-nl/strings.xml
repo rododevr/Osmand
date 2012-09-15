@@ -5,10 +5,10 @@
   <string name="show_lanes">Toon rijstroken</string>
   <string name="avoid_unpaved">Vermijd onverharde wegen</string>
   <string name="avoid_ferries">Vermijd veerboten</string>
-  <string name="avoid_in_routing_title">Vermijd…</string>
-  <string name="avoid_in_routing_descr">Vermijd tolwegen, onverharde wegen, veerboten</string>
-  <string name="show_warnings_title">Toon alarm…</string>
-  <string name="show_warnings_descr">Toon snelheidslimieten, snelheidscamera\'s en verkeersdrempels</string>
+  <string name="avoid_in_routing_title">Vermijd …</string>
+  <string name="avoid_in_routing_descr">Vermijd tolwegen, onverharde wegen, veerboten en snelwegen</string>
+  <string name="show_warnings_title">Toon …</string>
+  <string name="show_warnings_descr">Toon snelheidslimieten, snelheidscamera\'s, verkeersdrempels en rijstroken</string>
   <string name="map_widget_fluorescent">Fluorescerende routes</string>
   <string name="map_widget_show_ruler">Lineaal</string>
   <string name="map_widget_appearance">Overige:</string>
