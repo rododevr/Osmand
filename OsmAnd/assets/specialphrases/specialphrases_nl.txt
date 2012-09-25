@@ -1,4 +1,3 @@
-
 aerodrome,Luchthaven
 arts_centre,Kunstcollectief
 atm,Geldautomaat
@@ -7,7 +6,7 @@ bank,Bank
 bar,Bar
 bench,Bankje
 bicycle_parking,Fietsenstalling
-bicycle_rental,Fietsverhuur
+bicycle_rental,Fietsenverhuur
 brothel,Bordeel
 bureau_de_change,Wisselkantoor
 bus_station,Busstation
@@ -100,7 +99,7 @@ university,Universiteit
 vending_machine,Automaat
 veterinary,Dierenarts
 village_hall,Gemeentehuis
-waste_basket,Vuilbak
+waste_basket,Vuilnisbak
 wifi,Wifi-toegang
 wifi,Wifi
 youth_centre,Jeugdcentrum
@@ -182,8 +181,8 @@ icon,Icoon
 manor,Landgoed
 memorial,Monument
 mine,Mijn
-monument,Monoment
-monument,Groot Monoment
+monument,Monument
+monument,Groot Monument
 museum,Museum
 ruins,Ruïne
 tower,Toren
@@ -330,17 +329,17 @@ yard,Rangeerterrein
 alcohol,Slijterij
 apparel,Kledingwinkel
 art,Kunstwinkel
-bakery,Bakkerij
+bakery,Bakker
 beauty,Schoonheidssalon
 beverages,Frisdrankverkooppunt
 bicycle,Fietsenwinkel
-books,Boekenwinkel
+books,Boekwinkel
 butcher,Slagerij
 car,Automaterialenwinkel
 car_dealer,Autodealer
 car_parts,Autoonderdelen
 car_repair,Autogarage
-carpet,Tapijtzaak
+carpet,Tapijtwinkel
 charity,Liefdadigheidswinkel
 chemist,Apotheek
 clothes,Kledingwinkel
@@ -362,7 +361,7 @@ fish,Viswinkel
 florist,Bloemist
 food,Etenswarenwinkel
 funeral_directors,Uitvaartcentrum
-furniture,Meubelzaak
+furniture,Meubelwinkel
 gallery,Galerie
 garden_centre,Tuincentrum
 general,Algemene winkel
@@ -383,12 +382,12 @@ motorcycle,Motorfietsenwinkel
 music,Muziekwinkel
 newsagent,Straatkiosk
 optician,Opticien
-organic,Organische winkel
+organic,Bio winkel
 outdoor,Buitensportwinkel
 pet,Dierenwinkel
 photo,Fotowinkel
 salon,Schoonheidssalon
-shoes,Schoenenzaak
+shoes,Schoenenwinkel
 shopping_centre,Winkelcentrum
 sports,Sportwinkel
 stationery,Kantoorartikelenwinkel
